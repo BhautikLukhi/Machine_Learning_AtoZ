@@ -1,4 +1,4 @@
-Welcome to Part 2 - Regression!
+Part 2 - Regression!
 
 
 
